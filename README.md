@@ -71,3 +71,7 @@ Insider data theft was rated **Low**, reflecting its lower likelihood in a small
 |---|---|
 | NIST Cybersecurity Framework (CSF) | Free, industry-recognized framework for structuring the risk-to-control mapping |
 | Microsoft Word | Report document |
+
+## Full Portfolio
+
+See the complete project index: [cybersecurity-portfolio](https://github.com/RaheemC4/cybersecurity-portfolio)
